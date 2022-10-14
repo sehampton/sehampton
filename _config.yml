@@ -1,6 +1,6 @@
 # Site settings
 title: Great New Blog Title
-author:
+author: someone
   name: me
   email: your-email@domain.com
 description: "Great site about Jekyll on GH-Pages."
